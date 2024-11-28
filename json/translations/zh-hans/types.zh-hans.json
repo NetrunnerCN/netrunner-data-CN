@@ -16,6 +16,10 @@
     "name": "门禁"
   },
   {
+    "code": "corp_identity",
+    "name": "公司特性"
+  },
+  {
     "code": "event",
     "name": "事件"
   },
@@ -46,6 +50,10 @@
   {
     "code": "resource",
     "name": "资源"
+  },
+  {
+    "code": "runner_identity",
+    "name": "潜袭者特性"
   },
   {
     "code": "sentry",
