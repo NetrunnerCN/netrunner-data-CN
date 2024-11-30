@@ -16,7 +16,7 @@
     "name": "门禁"
   },
   {
-    "code": "corp_identity",
+    "code": "corp-identity",
     "name": "公司特性"
   },
   {
@@ -52,7 +52,7 @@
     "name": "资源"
   },
   {
-    "code": "runner_identity",
+    "code": "runner-identity",
     "name": "潜袭者特性"
   },
   {
