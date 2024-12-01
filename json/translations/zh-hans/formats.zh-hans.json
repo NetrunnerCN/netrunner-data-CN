@@ -1,0 +1,26 @@
+[
+  {
+    "code": "eternal",
+    "name": "永恒"
+  },
+  {
+    "code": "ram",
+    "name": "RAM"
+  },
+  {
+    "code": "snapshot",
+    "name": "快照"
+  },
+  {
+    "code": "standard",
+    "name": "标准"
+  },
+  {
+    "code": "startup",
+    "name": "新启"
+  },
+  {
+    "code": "system-gateway",
+    "name": "核心网关"
+  }
+]
